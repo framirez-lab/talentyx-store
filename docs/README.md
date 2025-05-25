@@ -1,6 +1,6 @@
 # Talaentyx.store - Marketplace de Freelance y Startups
 
-![Talaentyx.store Logo](ruta/a/logo.png) <!-- Añade tu logo si lo tienes -->
+![Talaentyx.store Logo](./assets/img/logo.png)<!-- Añade tu logo si lo tienes -->
 
 **Conecta tu talento con oportunidades** - Plataforma para que freelancers ofrezcan sus servicios y startups encuentren talento especializado.
 
@@ -53,3 +53,6 @@ Talaentyx.store es un marketplace que busca:
 git clone https://github.com/tu-usuario/talaentyx-store.git
 cd talaentyx-store
 npm install
+
+
+[def]: ../docs/assets/img/logo.png
