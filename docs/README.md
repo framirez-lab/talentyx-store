@@ -54,5 +54,6 @@ git clone https://github.com/tu-usuario/talaentyx-store.git
 cd talaentyx-store
 npm install
 
+```
 
-[def]: ../docs/assets/img/logo.png
+<!-- [def]: ../docs/assets/img/logo.png -->
