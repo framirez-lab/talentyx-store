@@ -36,7 +36,7 @@ Talaentyx.store es un marketplace que busca:
    - Diseño de base de datos
    - Flujos de usuario
 
-3. **[API REST](api/autenticacion.md)**
+3. **[API REST](api/api-talentyx.md)**
    - Endpoints de autenticación
    - Gestión de proyectos y servicios
    - Sistema de propuestas y mensajería
@@ -49,6 +49,7 @@ Talaentyx.store es un marketplace que busca:
 - NPM/Yarn
 
 ### Instalación
+
 ```bash
 git clone https://github.com/tu-usuario/talaentyx-store.git
 cd talaentyx-store
