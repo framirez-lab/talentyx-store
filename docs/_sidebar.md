@@ -7,10 +7,4 @@
   * [Base de Datos](arquitectura/base-datos.md)
   * [Flujos de Usuario](arquitectura/flujo.md)
 * API REST
-  * [Autenticación](api/autenticacion.md)
-  * [Proyectos](api/proyectos.md)
-  * [Servicios](api/servicios.md)
-  * [Propuestas](api/propuestas.md)
-  * [Usuarios](api/usuarios.md)
-  * [Órdenes](api/ordenes.md)
-  * [Mensajes](api/mensajes.md)
+  * [API REST - Talentyx](api/api-talentyx.md)
